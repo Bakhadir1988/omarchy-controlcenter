@@ -32,7 +32,7 @@ omarchy restart shell
 ## Validate
 
 ```bash
-omarchy plugin validate ~/.config/omarchy/plugins/bakhadir.controlcenter
+omarchy plugin validate ~/.config/omarchy/plugins/system.controlcenter
 ```
 
 ## Requirements

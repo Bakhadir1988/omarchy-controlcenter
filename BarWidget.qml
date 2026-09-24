@@ -9,7 +9,7 @@ import qs.Ui
 // ControlCenter.qml. Pattern mirrors omarchy.power / bakhadir.agents.
 Panel {
   id: root
-  moduleName: "bakhadir.controlcenter"
+  moduleName: "system.controlcenter"
   ipcTarget: "controlcenter"
   manageIpc: false
 

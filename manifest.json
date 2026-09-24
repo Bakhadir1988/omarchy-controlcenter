@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "id": "bakhadir.controlcenter",
+  "id": "system.controlcenter",
   "name": "Control Center",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "author": "bakhadir",
   "license": "MIT",
   "description": "macOS-style notification center popup: history grouped by app, DND toggle, clear — styled with Omarchy theme tokens.",
